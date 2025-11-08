@@ -115,6 +115,12 @@ footer{
     a{
         font-size: 13px;
     }
+    a:hover{
+    font-size: 14px;
+    color: rgb(235, 175, 66);
+    
+    
+}
     .bc{
         background-size: 100%;
     }
